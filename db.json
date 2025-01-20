@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "titulo": "SEO com React",
+      "categoria": "FRONT END",
+      "capa": "https://img.youtube.com/vi/c8mVlakBESE/0.jpg",
+      "link":"https://www.youtube.com/embed/c8mVlakBESE?si=ngGQ34h2Xw6xqbJm",
+      "descricao":"Eu to aqui pra nesse vídeo dizer que a gente vai aprender a começar uma app inspirada no desenho Pokémon com Nextjs e React, ver algumas dicas sobre performance e de quebra conhecer uma plataforma sensacional pra fazer deploy que é a Vercel. Tudo em 22 minutos nesse vídeo feito com todo o carinho do mundo construindo uma 'Pokedex'!"
+    },
+    {
+        "id": 2,
+        "titulo": "O que Faz uma desenvolvedora FRONT-END",
+        "categoria": "FRONT END",
+        "capa": "https://img.youtube.com/vi/ZY3-MFxVdEw/0.jpg",
+        "link": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+        "descricao": "Neste vídeo, você vai entender as responsabilidades de uma desenvolvedora Front-End, as principais tecnologias utilizadas e como é o dia a dia dessa profissão. Ideal para quem deseja ingressar na área ou compreender melhor as habilidades e desafios dessa função."
+      },
+      {
+        "id": 3,
+        "titulo": "Árvores Binárias",
+        "categoria": "FRONT END",
+        "capa": "https://img.youtube.com/vi/NpJVZtgSY4U/hqdefault.jpg",
+        "link": "https://www.youtube.com/embed/NpJVZtgSY4U?si=hxGhOeoLT0XdhQOY",
+        "descricao": "Este vídeo aborda o conceito de Árvores Binárias, uma estrutura fundamental em programação. Aprenda como elas funcionam, suas aplicações e como implementá-las de forma eficiente em projetos de desenvolvimento."
+      },
+      {
+        "id": 4,
+        "titulo": "Introdução ao Node.js",
+        "categoria": "BACK END",
+        "capa": "https://img.youtube.com/vi/TlB_eWDSMt4/0.jpg",
+        "link": "https://www.youtube.com/embed/TlB_eWDSMt4",
+        "descricao": "Aprenda os conceitos fundamentais do Node.js, uma plataforma que permite executar JavaScript no lado do servidor."
+      },
+      {
+        "id": 5,
+        "titulo": "Construindo APIs REST com Express",
+        "categoria": "BACK END",
+        "capa": "https://img.youtube.com/vi/Lr9WUkeYSA8/0.jpg",
+        "link": "https://www.youtube.com/embed/Lr9WUkeYSA8",
+        "descricao": "Neste vídeo, exploramos como criar uma API REST robusta usando o framework Express com Node.js."
+      },
+      {
+        "id": 6,
+        "titulo": "Banco de Dados com MongoDB",
+        "categoria": "BACK END",
+        "capa": "https://img.youtube.com/vi/oSIv-E60NiU/0.jpg",
+        "link": "https://www.youtube.com/embed/oSIv-E60NiU",
+        "descricao": "Descubra como conectar seu aplicativo Node.js a um banco de dados MongoDB e realizar operações básicas."
+      },
+     
+      {
+        "id": 7,
+        "categoria": "MOBILE",
+        "capa": "https://img.youtube.com/vi/0-S5a0eXPoc/0.jpg",
+        "link": "https://www.youtube.com/embed/0-S5a0eXPoc",
+        "descricao": "Aprenda os passos iniciais para criar aplicações móveis multiplataforma utilizando React Native."
+      },
+      {
+        "id": 8,
+        "titulo": "Introdução ao Flutter",
+        "categoria": "MOBILE",
+        "capa": "https://img.youtube.com/vi/fq4N0hgOWzU/0.jpg",
+        "link": "https://www.youtube.com/embed/fq4N0hgOWzU",
+        "descricao": "Um guia rápido para começar a desenvolver aplicações móveis utilizando o Flutter, o framework da Google."
+      },
+      {
+        "id": 9,
+        "titulo": "Integrando APIs em Apps Mobile",
+        "categoria": "MOBILE",
+        "capa": "https://img.youtube.com/vi/COY5vTa778g/0.jpg",
+        "link": "https://www.youtube.com/embed/COY5vTa778g?si=4kkB6IbOjFgUpMlX",
+        "descricao": "Neste vídeo, você aprenderá como integrar APIs REST em aplicativos móveis, utilizando o React Native. O tutorial abrange o uso de fetch e axios para consumir dados de APIs externas, permitindo que seu app interaja de forma eficiente com serviços web."
+      }
+]
