@@ -1,5 +1,4 @@
- {"videos"
-[
+ {"videos":[
     {
       "id": 1,
       "titulo": "SEO com React",
@@ -72,5 +71,4 @@
         "link": "https://www.youtube.com/embed/COY5vTa778g?si=4kkB6IbOjFgUpMlX",
         "descricao": "Neste vídeo, você aprenderá como integrar APIs REST em aplicativos móveis, utilizando o React Native. O tutorial abrange o uso de fetch e axios para consumir dados de APIs externas, permitindo que seu app interaja de forma eficiente com serviços web."
       }
-]
-}
+]}
